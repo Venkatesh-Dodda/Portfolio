@@ -501,6 +501,7 @@ img {
 }
 
 .project-content h3 {
+    color: #3498db;
     font-size: 1.5rem;
     margin-bottom: 15px;
 }
